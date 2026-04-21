@@ -1,0 +1,5 @@
+nltk
+pandas
+ipykernel
+textblob
+PySpellChecker
